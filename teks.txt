@@ -1,1 +1,2 @@
 Ini adalah berkas ujicoba kasus git.
+diubah di direktori lab\gitlagi\gitcases
