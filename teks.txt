@@ -5,4 +5,4 @@ diubah lagi oleh user di direktori lap\gitcase
 
 dirubah oleh serigala  di direktori lab\gitlagi\gitcase
 
-bikin branch "cabang"
+bikin branch "cabang" dari direktori lab\gitlagi\gitcase
