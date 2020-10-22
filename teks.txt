@@ -4,3 +4,5 @@ diubah di direktori lab\gitlagi\gitcase
 diubah lagi oleh user di direktori lap\gitcase
 
 dirubah oleh serigala  di direktori lab\gitlagi\gitcase
+
+bikin branch "cabang"
