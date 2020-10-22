@@ -2,3 +2,5 @@ Ini adalah berkas ujicoba kasus git.
 diubah di direktori lab\gitlagi\gitcase
 
 diubah lagi oleh user di direktori lap\gitcase
+
+dirubah oleh serigala  di direktori lab\gitlagi\gitcase
